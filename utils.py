@@ -28,6 +28,18 @@ def get_decay_mode(data):
         return None
     return info
 
+
+def get_max_qval(data):
+    max = 0
+    for item in data.items():
+        if item[0] is not None:
+            if item[1]["Q-value"] > max:
+                max = item[1]["Q-value"]
+    if max == 0:
+        return None
+    return max
+
+
 def add_isotope_data(df):
     """Must have Atomic Number and Mass Number"""
     df["Symbol"] = df.apply(
@@ -51,11 +63,20 @@ def add_isotope_data(df):
         lambda x: nuc(x["Atomic Number"], x["Mass Number"])["half-life"], axis=1
     )
     df["Decay Modes (m, b, q MeV)"] = df.apply(
-        lambda x: get_decay_mode(nuc(x["Atomic Number"], x["Mass Number"])["decay modes"]),
+        lambda x: get_decay_mode(
+            nuc(x["Atomic Number"], x["Mass Number"])["decay modes"]
+        ),
+        axis=1,
+    )
+    df["Max Q-Value"] = df.apply(
+        lambda x: get_max_qval(
+            nuc(x["Atomic Number"], x["Mass Number"])["decay modes"]
+        ),
         axis=1,
     )
     df["Plot Colour"] = df.apply(lambda x: "blue" if x["Stable"] else "red", axis=1)
     return df
+
 
 def print_decay_modes(Z, A):
     print(nuc(Z, A)["decay modes"])
