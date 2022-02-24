@@ -42,9 +42,6 @@ def get_max_qval(data):
 
 def add_isotope_data(df):
     """Must have Atomic Number and Mass Number"""
-    df["Symbol"] = df.apply(
-        lambda x: nuc(x["Atomic Number"], x["Mass Number"])["symbol"], axis=1
-    )
     df["Iso Symbol"] = df.apply(
         lambda x: nuc(x["Atomic Number"], x["Mass Number"])["symbol"]
         + " "
@@ -59,7 +56,7 @@ def add_isotope_data(df):
     df["Stable"] = df.apply(
         lambda x: nuc(x["Atomic Number"], x["Mass Number"])["stable"], axis=1
     )
-    df["Half Life"] = df.apply(
+    df["Half Life (ns)"] = df.apply(
         lambda x: nuc(x["Atomic Number"], x["Mass Number"])["half-life"], axis=1
     )
     df["Decay Modes (m, b, q MeV)"] = df.apply(
