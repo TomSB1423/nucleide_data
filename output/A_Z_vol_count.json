@@ -1,0 +1,1867 @@
+{
+  "H 1-4": {
+    "counts": 2058,
+    "weight": "4.02781+/-0.00011",
+    "half-life": "0.0",
+    "stable": false,
+    "decay modes": { "N": { "branch fraction": 1.0, "Q-value": 2.88 } },
+    "mass excess": "24.62+/-0.10",
+    "lambda": "inf"
+  },
+  "H 1-5": {
+    "counts": 6,
+    "weight": "5.03531+/-0.00011",
+    "half-life": "8.33e-23",
+    "stable": false,
+    "decay modes": { "2N": { "branch fraction": 1.0, "Q-value": 1.8 } },
+    "mass excess": "32.89+/-0.09",
+    "lambda": 8.321094604561167e21
+  },
+  "H 1-6": {
+    "counts": 6,
+    "weight": "6.04494+/-0.00028",
+    "half-life": "2.97e-22",
+    "stable": false,
+    "decay modes": { "N": { "branch fraction": 1.0, "Q-value": 0.9 } },
+    "mass excess": "41.88+/-0.25",
+    "lambda": 2.3338288907742266e21
+  },
+  "He 2-5": {
+    "counts": 27,
+    "weight": "5.01222+/-0.00005",
+    "half-life": "7.91e-22",
+    "stable": false,
+    "decay modes": {
+      "A": { "branch fraction": 1.0, "Q-value": 0.89 },
+      "N": { "branch fraction": 1.0, "Q-value": 0.89 }
+    },
+    "mass excess": "11.231+/-0.020",
+    "lambda": 8.762922636661761e20
+  },
+  "He 2-6": {
+    "counts": 3893,
+    "weight": "6.0188891+/-0.0000008",
+    "half-life": "0.801",
+    "stable": false,
+    "decay modes": { "B-": { "branch fraction": 1.0, "Q-value": 3.508 } },
+    "mass excess": "17.592+/-0",
+    "lambda": 0.8653522853432525
+  },
+  "He 2-7": {
+    "counts": 61,
+    "weight": "7.028021+/-0.000018",
+    "half-life": "3.16e-21",
+    "stable": false,
+    "decay modes": { "N": { "branch fraction": null, "Q-value": 0.435 } },
+    "mass excess": "26.067+/-0.008",
+    "lambda": 2.193503735949194e20
+  },
+  "He 2-8": {
+    "counts": 90,
+    "weight": "8.033922+/-0.000007",
+    "half-life": "0.119",
+    "stable": false,
+    "decay modes": {
+      "B-": { "branch fraction": 1.0, "Q-value": 10.651 },
+      "BN": { "branch fraction": 0.16, "Q-value": 8.619 }
+    },
+    "mass excess": "31.609+/-0",
+    "lambda": 5.8247662231928174
+  },
+  "He 2-9": {
+    "counts": 9,
+    "weight": "9.043950+/-0.000030",
+    "half-life": "0.0",
+    "stable": false,
+    "decay modes": { "N": { "branch fraction": 1.0, "Q-value": 1.27 } },
+    "mass excess": "39.78+/-0.06",
+    "lambda": "inf"
+  },
+  "He 2-10": {
+    "counts": 1,
+    "weight": "10.05240+/-0.00008",
+    "half-life": "1.58e-21",
+    "stable": false,
+    "decay modes": { "N": { "branch fraction": 1.0, "Q-value": -0.202 } },
+    "mass excess": "48.81+/-0.07",
+    "lambda": 4.387007471898388e20
+  },
+  "Li 3-4": {
+    "counts": 26,
+    "weight": "4.02719+/-0.00023",
+    "half-life": "7.87e-23",
+    "stable": false,
+    "decay modes": { "P": { "branch fraction": 1.0, "Q-value": 3.103 } },
+    "mass excess": "25.32+/-0.21",
+    "lambda": 8.807460998220398e21
+  },
+  "Li 3-5": {
+    "counts": 22,
+    "weight": "5.01254+/-0.00005",
+    "half-life": "3.16e-22",
+    "stable": false,
+    "decay modes": {
+      "P": { "branch fraction": 1.0, "Q-value": 1.965 },
+      "A": { "branch fraction": 1.0, "Q-value": 1.965 }
+    },
+    "mass excess": "11.68+/-0.05",
+    "lambda": 2.193503735949194e21
+  },
+  "Li 3-6": {
+    "counts": 12784,
+    "weight": "6.015122795+/-0.000000016",
+    "half-life": "inf",
+    "stable": true,
+    "decay modes": { "null": { "branch fraction": null, "Q-value": 0.0 } },
+    "mass excess": "14.0869+/-0",
+    "lambda": 0.0
+  },
+  "Li 3-7": {
+    "counts": 6904,
+    "weight": "7.01600455+/-0.00000008",
+    "half-life": "inf",
+    "stable": true,
+    "decay modes": { "null": { "branch fraction": null, "Q-value": 0.0 } },
+    "mass excess": "14.9071+/-0",
+    "lambda": 0.0
+  },
+  "Li 3-8": {
+    "counts": 1394,
+    "weight": "8.02248736+/-0.00000010",
+    "half-life": "0.84",
+    "stable": false,
+    "decay modes": {
+      "B-": { "branch fraction": 1.0, "Q-value": 16.005 },
+      "BA": { "branch fraction": 1.0, "Q-value": 0.0 }
+    },
+    "mass excess": "20.945+/-0",
+    "lambda": 0.8251752149523158
+  },
+  "Li 3-9": {
+    "counts": 187,
+    "weight": "9.0267895+/-0.0000021",
+    "half-life": "0.178",
+    "stable": false,
+    "decay modes": {
+      "B-": { "branch fraction": 1.0, "Q-value": 13.607 },
+      "BN": { "branch fraction": 0.508, "Q-value": 11.941 }
+    },
+    "mass excess": "24.954+/-0",
+    "lambda": 3.8940852840446367
+  },
+  "Li 3-10": {
+    "counts": 9,
+    "weight": "10.035481+/-0.000016",
+    "half-life": "0.0",
+    "stable": false,
+    "decay modes": { "N": { "branch fraction": 1.0, "Q-value": 0.025 } },
+    "mass excess": "33.052+/-0.012",
+    "lambda": "inf"
+  },
+  "Li 3-11": {
+    "counts": 6,
+    "weight": "11.043798+/-0.000021",
+    "half-life": "0.00875",
+    "stable": false,
+    "decay modes": {
+      "B-": { "branch fraction": 1.0, "Q-value": 20.623 },
+      "BN": { "branch fraction": 0.83, "Q-value": 20.119 },
+      "B2N": { "branch fraction": 0.040999999999999995, "Q-value": 20.12 },
+      "BNA": { "branch fraction": 0.00027, "Q-value": 12.71 }
+    },
+    "mass excess": "40.7280+/-0.0010",
+    "lambda": 79.21682063542231
+  },
+  "Be 4-6": {
+    "counts": 9,
+    "weight": "6.019726+/-0.000006",
+    "half-life": "5.16e-21",
+    "stable": false,
+    "decay modes": {
+      "P": { "branch fraction": 1.0, "Q-value": -0.593 },
+      "A": { "branch fraction": 1.0, "Q-value": 0.0 }
+    },
+    "mass excess": "18.375+/-0.005",
+    "lambda": 1.3433084894572583e20
+  },
+  "Be 4-7": {
+    "counts": 1096,
+    "weight": "7.01692983+/-0.00000011",
+    "half-life": "4600000.0",
+    "stable": false,
+    "decay modes": { "EC": { "branch fraction": 1.0, "Q-value": 0.862 } },
+    "mass excess": "15.768+/-0",
+    "lambda": 1.5068416968694463e-7
+  },
+  "Be 4-8": {
+    "counts": 3634,
+    "weight": "8.00530510+/-0.00000004",
+    "half-life": "8.52e-17",
+    "stable": false,
+    "decay modes": { "A": { "branch fraction": 1.0, "Q-value": 0.092 } },
+    "mass excess": "4.941+/-0",
+    "lambda": 8135530288262269.0
+  },
+  "Be 4-9": {
+    "counts": 2390,
+    "weight": "9.0121822+/-0.0000004",
+    "half-life": "inf",
+    "stable": true,
+    "decay modes": { "null": { "branch fraction": null, "Q-value": 0.0 } },
+    "mass excess": "11.348+/-0",
+    "lambda": 0.0
+  },
+  "Be 4-10": {
+    "counts": 889,
+    "weight": "10.0135338+/-0.0000004",
+    "half-life": "43800000000000.0",
+    "stable": false,
+    "decay modes": { "B-": { "branch fraction": 1.0, "Q-value": 0.556 } },
+    "mass excess": "12.607+/-0",
+    "lambda": 1.582527809497592e-14
+  },
+  "Be 4-11": {
+    "counts": 67,
+    "weight": "11.021658+/-0.000007",
+    "half-life": "13.8",
+    "stable": false,
+    "decay modes": {
+      "B-": { "branch fraction": 1.0, "Q-value": 11.506 },
+      "BA": { "branch fraction": 0.031, "Q-value": 2.841 }
+    },
+    "mass excess": "20.177+/-0",
+    "lambda": 0.050228056562314875
+  },
+  "Be 4-12": {
+    "counts": 11,
+    "weight": "12.026921+/-0.000016",
+    "half-life": "0.0215",
+    "stable": false,
+    "decay modes": {
+      "B-": { "branch fraction": 1.0, "Q-value": 11.708 },
+      "BN": { "branch fraction": 0.01, "Q-value": 8.337 }
+    },
+    "mass excess": "25.076+/-0.004",
+    "lambda": 32.239403746974205
+  },
+  "Be 4-13": {
+    "counts": 5,
+    "weight": "13.03569+/-0.00008",
+    "half-life": "2.7e-21",
+    "stable": false,
+    "decay modes": { "N": { "branch fraction": null, "Q-value": 0.1 } },
+    "mass excess": "33.207+/-0.010",
+    "lambda": 2.567211779851649e20
+  },
+  "B 5-8": {
+    "counts": 23,
+    "weight": "8.0246072+/-0.0000011",
+    "half-life": "0.77",
+    "stable": false,
+    "decay modes": {
+      "EC": { "branch fraction": 1.0, "Q-value": 17.98 },
+      "EA": { "branch fraction": 1.0, "Q-value": 0.0 }
+    },
+    "mass excess": "22.9210+/-0.0010",
+    "lambda": 0.9001911435843445
+  },
+  "B 5-9": {
+    "counts": 40,
+    "weight": "9.0133288+/-0.0000011",
+    "half-life": "8.79e-19",
+    "stable": false,
+    "decay modes": {
+      "P": { "branch fraction": 1.0, "Q-value": 0.185 },
+      "2A": { "branch fraction": 1.0, "Q-value": 0.277 }
+    },
+    "mass excess": "12.416+/-0",
+    "lambda": 7.88563345346923e17
+  },
+  "B 5-10": {
+    "counts": 2249,
+    "weight": "10.0129370+/-0.0000004",
+    "half-life": "inf",
+    "stable": true,
+    "decay modes": { "null": { "branch fraction": null, "Q-value": 0.0 } },
+    "mass excess": "12.05+/-0",
+    "lambda": 0.0
+  },
+  "B 5-11": {
+    "counts": 2382,
+    "weight": "11.0093054+/-0.0000004",
+    "half-life": "inf",
+    "stable": true,
+    "decay modes": { "null": { "branch fraction": null, "Q-value": 0.0 } },
+    "mass excess": "8.667+/-0",
+    "lambda": 0.0
+  },
+  "B 5-12": {
+    "counts": 394,
+    "weight": "12.0143521+/-0.0000015",
+    "half-life": "0.0202",
+    "stable": false,
+    "decay modes": {
+      "B-": { "branch fraction": 1.0, "Q-value": 13.369 },
+      "B3A": { "branch fraction": 0.0158, "Q-value": 0.0 }
+    },
+    "mass excess": "13.3680+/-0.0010",
+    "lambda": 34.31421685940323
+  },
+  "B 5-13": {
+    "counts": 88,
+    "weight": "13.0177802+/-0.0000012",
+    "half-life": "0.0173",
+    "stable": false,
+    "decay modes": { "B-": { "branch fraction": 1.0, "Q-value": 13.437 } },
+    "mass excess": "16.5620+/-0.0010",
+    "lambda": 40.06631101502574
+  },
+  "B 5-14": {
+    "counts": 7,
+    "weight": "14.025404+/-0.000023",
+    "half-life": "0.0125",
+    "stable": false,
+    "decay modes": { "B-": { "branch fraction": 1.0, "Q-value": 20.644 } },
+    "mass excess": "23.663+/-0.021",
+    "lambda": 55.45177444479562
+  },
+  "C 6-10": {
+    "counts": 44,
+    "weight": "10.0168532+/-0.0000004",
+    "half-life": "19.3",
+    "stable": false,
+    "decay modes": { "EC": { "branch fraction": 1.0, "Q-value": 3.648 } },
+    "mass excess": "15.698+/-0",
+    "lambda": 0.035914361687043796
+  },
+  "C 6-11": {
+    "counts": 333,
+    "weight": "11.0114336+/-0.0000010",
+    "half-life": "1220.0",
+    "stable": false,
+    "decay modes": { "EC": { "branch fraction": 1.0, "Q-value": 1.982 } },
+    "mass excess": "10.65+/-0",
+    "lambda": 0.0005681534266884797
+  },
+  "C 6-12": {
+    "counts": 7789,
+    "weight": "12.0+/-0",
+    "half-life": "inf",
+    "stable": true,
+    "decay modes": { "null": { "branch fraction": null, "Q-value": 0.0 } },
+    "mass excess": "0.0+/-0",
+    "lambda": 0.0
+  },
+  "C 6-13": {
+    "counts": 2600,
+    "weight": "13.0033548378+/-0.0000000010",
+    "half-life": "inf",
+    "stable": true,
+    "decay modes": { "null": { "branch fraction": null, "Q-value": 0.0 } },
+    "mass excess": "3.125+/-0",
+    "lambda": 0.0
+  },
+  "C 6-14": {
+    "counts": 1451,
+    "weight": "14.003241989+/-0.000000004",
+    "half-life": "180000000000.0",
+    "stable": false,
+    "decay modes": { "B-": { "branch fraction": 1.0, "Q-value": 0.156 } },
+    "mass excess": "3.0199+/-0",
+    "lambda": 3.8508176697774734e-12
+  },
+  "C 6-15": {
+    "counts": 130,
+    "weight": "15.0105993+/-0.0000009",
+    "half-life": "2.45",
+    "stable": false,
+    "decay modes": { "B-": { "branch fraction": 1.0, "Q-value": 9.772 } },
+    "mass excess": "9.873+/-0",
+    "lambda": 0.2829172165550797
+  },
+  "C 6-16": {
+    "counts": 16,
+    "weight": "16.014701+/-0.000004",
+    "half-life": "0.747",
+    "stable": false,
+    "decay modes": {
+      "B-": { "branch fraction": 1.0, "Q-value": 8.01 },
+      "BN": { "branch fraction": 0.99, "Q-value": 5.521 }
+    },
+    "mass excess": "13.6940+/-0.0030",
+    "lambda": 0.9279078722355358
+  },
+  "C 6-17": {
+    "counts": 1,
+    "weight": "17.022586+/-0.000019",
+    "half-life": "0.193",
+    "stable": false,
+    "decay modes": {
+      "B-": { "branch fraction": 1.0, "Q-value": 13.167 },
+      "BN": { "branch fraction": 0.32, "Q-value": 7.284 }
+    },
+    "mass excess": "21.032+/-0.017",
+    "lambda": 3.5914361687043797
+  },
+  "C 6-18": {
+    "counts": 1,
+    "weight": "18.026760+/-0.000030",
+    "half-life": "0.092",
+    "stable": false,
+    "decay modes": {
+      "B-": { "branch fraction": 1.0, "Q-value": 11.812 },
+      "BN": { "branch fraction": 0.315, "Q-value": 8.983 }
+    },
+    "mass excess": "24.919+/-0.030",
+    "lambda": 7.534208484347231
+  },
+  "N 7-12": {
+    "counts": 3,
+    "weight": "12.0186132+/-0.0000011",
+    "half-life": "0.011",
+    "stable": false,
+    "decay modes": { "EC": { "branch fraction": 1.0, "Q-value": 17.338 } },
+    "mass excess": "17.3380+/-0.0010",
+    "lambda": 63.01338005090412
+  },
+  "N 7-13": {
+    "counts": 281,
+    "weight": "13.00573861+/-0.00000029",
+    "half-life": "598.0",
+    "stable": false,
+    "decay modes": { "EC": { "branch fraction": 1.0, "Q-value": 2.22 } },
+    "mass excess": "5.345+/-0",
+    "lambda": 0.0011591089975918818
+  },
+  "N 7-14": {
+    "counts": 4238,
+    "weight": "14.0030740048+/-0.0000000006",
+    "half-life": "inf",
+    "stable": true,
+    "decay modes": { "null": { "branch fraction": null, "Q-value": 0.0 } },
+    "mass excess": "2.8634+/-0",
+    "lambda": 0.0
+  },
+  "N 7-15": {
+    "counts": 4966,
+    "weight": "15.0001088982+/-0.0000000007",
+    "half-life": "inf",
+    "stable": true,
+    "decay modes": { "null": { "branch fraction": null, "Q-value": 0.0 } },
+    "mass excess": "0.1014+/-0",
+    "lambda": 0.0
+  },
+  "N 7-16": {
+    "counts": 453,
+    "weight": "16.0061017+/-0.0000028",
+    "half-life": "7.13",
+    "stable": false,
+    "decay modes": {
+      "B-": { "branch fraction": 1.0, "Q-value": 10.421 },
+      "BA": { "branch fraction": 1.1999999999999999e-5, "Q-value": 0.0 }
+    },
+    "mass excess": "5.6830+/-0.0020",
+    "lambda": 0.09721559334641589
+  },
+  "N 7-17": {
+    "counts": 133,
+    "weight": "17.008450+/-0.000016",
+    "half-life": "4.17",
+    "stable": false,
+    "decay modes": {
+      "B-": { "branch fraction": 1.0, "Q-value": 8.68 },
+      "BN": { "branch fraction": 0.951, "Q-value": 4.537 }
+    },
+    "mass excess": "7.870+/-0.015",
+    "lambda": 0.16622234545802045
+  },
+  "N 7-18": {
+    "counts": 42,
+    "weight": "18.014079+/-0.000020",
+    "half-life": "0.62",
+    "stable": false,
+    "decay modes": {
+      "B-": { "branch fraction": 1.0, "Q-value": 13.896 },
+      "BA": { "branch fraction": 0.122, "Q-value": 7.672 },
+      "BN": { "branch fraction": 0.07, "Q-value": 5.852 }
+    },
+    "mass excess": "13.113+/-0.018",
+    "lambda": 1.1179793234837827
+  },
+  "N 7-19": {
+    "counts": 7,
+    "weight": "19.017029+/-0.000018",
+    "half-life": "0.336",
+    "stable": false,
+    "decay modes": {
+      "B-": { "branch fraction": 1.0, "Q-value": 12.527 },
+      "BN": { "branch fraction": 0.418, "Q-value": 8.572 }
+    },
+    "mass excess": "15.856+/-0.016",
+    "lambda": 2.0629380373807895
+  },
+  "N 7-20": {
+    "counts": 3,
+    "weight": "20.02337+/-0.00006",
+    "half-life": "0.136",
+    "stable": false,
+    "decay modes": {
+      "B-": { "branch fraction": 1.0, "Q-value": 17.968 },
+      "BN": { "branch fraction": 0.429, "Q-value": 10.359 }
+    },
+    "mass excess": "21.77+/-0.06",
+    "lambda": 5.096670445293715
+  },
+  "O 8-14": {
+    "counts": 43,
+    "weight": "14.00859625+/-0.00000012",
+    "half-life": "70.6",
+    "stable": false,
+    "decay modes": { "EC": { "branch fraction": 1.0, "Q-value": 5.144 } },
+    "mass excess": "8.007+/-0",
+    "lambda": 0.009817948733143702
+  },
+  "O 8-15": {
+    "counts": 614,
+    "weight": "15.0030656+/-0.0000005",
+    "half-life": "122.0",
+    "stable": false,
+    "decay modes": { "EC": { "branch fraction": 1.0, "Q-value": 2.754 } },
+    "mass excess": "2.855+/-0",
+    "lambda": 0.0056815342668847975
+  },
+  "O 8-16": {
+    "counts": 10226,
+    "weight": "15.99491461956+/-0.00000000016",
+    "half-life": "inf",
+    "stable": true,
+    "decay modes": { "null": { "branch fraction": null, "Q-value": 0.0 } },
+    "mass excess": "-4.737+/-0",
+    "lambda": 0.0
+  },
+  "O 8-17": {
+    "counts": 2217,
+    "weight": "16.99913170+/-0.00000012",
+    "half-life": "inf",
+    "stable": true,
+    "decay modes": { "null": { "branch fraction": null, "Q-value": 0.0 } },
+    "mass excess": "-0.8088+/-0",
+    "lambda": 0.0
+  },
+  "O 8-18": {
+    "counts": 2639,
+    "weight": "17.9991610+/-0.0000007",
+    "half-life": "inf",
+    "stable": true,
+    "decay modes": { "null": { "branch fraction": null, "Q-value": 0.0 } },
+    "mass excess": "-0.7828+/-0",
+    "lambda": 0.0
+  },
+  "O 8-19": {
+    "counts": 415,
+    "weight": "19.0035800+/-0.0000030",
+    "half-life": "26.9",
+    "stable": false,
+    "decay modes": { "B-": { "branch fraction": 1.0, "Q-value": 4.822 } },
+    "mass excess": "3.3330+/-0.0020",
+    "lambda": 0.025767553180667112
+  },
+  "O 8-20": {
+    "counts": 196,
+    "weight": "20.0040767+/-0.0000012",
+    "half-life": "13.5",
+    "stable": false,
+    "decay modes": { "B-": { "branch fraction": 1.0, "Q-value": 3.815 } },
+    "mass excess": "3.796+/-0",
+    "lambda": 0.05134423559703299
+  },
+  "O 8-21": {
+    "counts": 31,
+    "weight": "21.008656+/-0.000013",
+    "half-life": "3.42",
+    "stable": false,
+    "decay modes": { "B-": { "branch fraction": 1.0, "Q-value": 8.11 } },
+    "mass excess": "8.061+/-0.012",
+    "lambda": 0.2026746141988144
+  },
+  "O 8-22": {
+    "counts": 13,
+    "weight": "22.00997+/-0.00006",
+    "half-life": "2.25",
+    "stable": false,
+    "decay modes": {
+      "B-": { "branch fraction": 1.0, "Q-value": 6.491 },
+      "BN": { "branch fraction": 0.22, "Q-value": 1.26 }
+    },
+    "mass excess": "9.28+/-0.06",
+    "lambda": 0.3080654135821979
+  },
+  "O 8-23": {
+    "counts": 2,
+    "weight": "23.01569+/-0.00013",
+    "half-life": "0.097",
+    "stable": false,
+    "decay modes": {
+      "B-": { "branch fraction": 1.0, "Q-value": 11.283 },
+      "BN": { "branch fraction": 0.07, "Q-value": 3.748 }
+    },
+    "mass excess": "14.62+/-0.09",
+    "lambda": 7.145847222267477
+  },
+  "O 8-24": {
+    "counts": 1,
+    "weight": "24.02047+/-0.00025",
+    "half-life": "0.065",
+    "stable": false,
+    "decay modes": {
+      "B-": { "branch fraction": 1.0, "Q-value": 11.511 },
+      "BN": { "branch fraction": 0.58, "Q-value": 7.669 }
+    },
+    "mass excess": "18.50+/-0.11",
+    "lambda": 10.663802777845312
+  },
+  "F 9-17": {
+    "counts": 67,
+    "weight": "17.00209524+/-0.00000027",
+    "half-life": "64.5",
+    "stable": false,
+    "decay modes": { "EC": { "branch fraction": 1.0, "Q-value": 2.761 } },
+    "mass excess": "1.951+/-0",
+    "lambda": 0.010746467915658066
+  },
+  "F 9-18": {
+    "counts": 809,
+    "weight": "18.0009380+/-0.0000006",
+    "half-life": "6590.0",
+    "stable": false,
+    "decay modes": { "EC": { "branch fraction": 1.0, "Q-value": 1.655 } },
+    "mass excess": "0.873+/-0",
+    "lambda": 0.00010518166624581871
+  },
+  "F 9-19": {
+    "counts": 2967,
+    "weight": "18.99840322+/-0.00000007",
+    "half-life": "inf",
+    "stable": true,
+    "decay modes": { "null": { "branch fraction": null, "Q-value": 0.0 } },
+    "mass excess": "-1.4874+/-0",
+    "lambda": 0.0
+  },
+  "F 9-20": {
+    "counts": 1608,
+    "weight": "19.99998132+/-0.00000008",
+    "half-life": "11.1",
+    "stable": false,
+    "decay modes": { "B-": { "branch fraction": 1.0, "Q-value": 7.025 } },
+    "mass excess": "-0.017+/-0",
+    "lambda": 0.062445691942337414
+  },
+  "F 9-21": {
+    "counts": 603,
+    "weight": "20.9999490+/-0.0000019",
+    "half-life": "4.16",
+    "stable": false,
+    "decay modes": { "B-": { "branch fraction": 1.0, "Q-value": 5.684 } },
+    "mass excess": "-0.0470+/-0.0010",
+    "lambda": 0.166621918403833
+  },
+  "F 9-22": {
+    "counts": 255,
+    "weight": "22.002999+/-0.000013",
+    "half-life": "4.23",
+    "stable": false,
+    "decay modes": {
+      "B-": { "branch fraction": 1.0, "Q-value": 10.818 },
+      "BN": { "branch fraction": 0.11, "Q-value": 0.454 }
+    },
+    "mass excess": "2.793+/-0.012",
+    "lambda": 0.16386458169265844
+  },
+  "F 9-23": {
+    "counts": 38,
+    "weight": "23.00357+/-0.00009",
+    "half-life": "2.23",
+    "stable": false,
+    "decay modes": { "B-": { "branch fraction": 1.0, "Q-value": 8.484 } },
+    "mass excess": "3.31+/-0.10",
+    "lambda": 0.31082833208966154
+  },
+  "F 9-24": {
+    "counts": 11,
+    "weight": "24.00812+/-0.00008",
+    "half-life": "0.39",
+    "stable": false,
+    "decay modes": {
+      "B-": { "branch fraction": 1.0, "Q-value": 13.511 },
+      "BN": { "branch fraction": 0.059000000000000004, "Q-value": 4.642 }
+    },
+    "mass excess": "7.56+/-0.07",
+    "lambda": 1.7773004629742186
+  },
+  "Ne 10-18": {
+    "counts": 20,
+    "weight": "18.00570820+/-0.00000030",
+    "half-life": "1.67",
+    "stable": false,
+    "decay modes": { "EC": { "branch fraction": 1.0, "Q-value": 4.443 } },
+    "mass excess": "5.317+/-0",
+    "lambda": 0.41505819195206306
+  },
+  "Ne 10-19": {
+    "counts": 135,
+    "weight": "19.00188020+/-0.00000030",
+    "half-life": "17.2",
+    "stable": false,
+    "decay modes": { "EC": { "branch fraction": 1.0, "Q-value": 3.239 } },
+    "mass excess": "1.752+/-0",
+    "lambda": 0.04029925468371775
+  },
+  "Ne 10-20": {
+    "counts": 10419,
+    "weight": "19.9924401754+/-0.0000000019",
+    "half-life": "inf",
+    "stable": true,
+    "decay modes": { "null": { "branch fraction": null, "Q-value": 0.0 } },
+    "mass excess": "-7.0419+/-0",
+    "lambda": 0.0
+  },
+  "Ne 10-21": {
+    "counts": 7775,
+    "weight": "20.99384668+/-0.00000004",
+    "half-life": "inf",
+    "stable": true,
+    "decay modes": { "null": { "branch fraction": null, "Q-value": 0.0 } },
+    "mass excess": "-5.731+/-0",
+    "lambda": 0.0
+  },
+  "Ne 10-22": {
+    "counts": 14723,
+    "weight": "21.991385114+/-0.000000019",
+    "half-life": "inf",
+    "stable": true,
+    "decay modes": { "null": { "branch fraction": null, "Q-value": 0.0 } },
+    "mass excess": "-8.024+/-0",
+    "lambda": 0.0
+  },
+  "Ne 10-23": {
+    "counts": 1049,
+    "weight": "22.99446690+/-0.00000011",
+    "half-life": "37.2",
+    "stable": false,
+    "decay modes": { "B-": { "branch fraction": 1.0, "Q-value": 4.376 } },
+    "mass excess": "-5.154+/-0",
+    "lambda": 0.01863298872472971
+  },
+  "Ne 10-24": {
+    "counts": 514,
+    "weight": "23.9936108+/-0.0000004",
+    "half-life": "203.0",
+    "stable": false,
+    "decay modes": { "B-": { "branch fraction": 1.0, "Q-value": 2.467 } },
+    "mass excess": "-5.951+/-0",
+    "lambda": 0.003414518130837169
+  },
+  "Ne 10-25": {
+    "counts": 45,
+    "weight": "24.997737+/-0.000028",
+    "half-life": "0.602",
+    "stable": false,
+    "decay modes": { "B-": { "branch fraction": 1.0, "Q-value": 7.25 } },
+    "mass excess": "-2.06+/-0.04",
+    "lambda": 1.15140727667765
+  },
+  "Ne 10-26": {
+    "counts": 10,
+    "weight": "26.000461+/-0.000029",
+    "half-life": "0.197",
+    "stable": false,
+    "decay modes": {
+      "B-": { "branch fraction": 1.0, "Q-value": 7.292 },
+      "BN": { "branch fraction": 0.0013, "Q-value": 1.716 }
+    },
+    "mass excess": "0.479+/-0.018",
+    "lambda": 3.518513606903275
+  },
+  "Ne 10-27": {
+    "counts": 1,
+    "weight": "27.00759+/-0.00012",
+    "half-life": "0.0315",
+    "stable": false,
+    "decay modes": {
+      "B-": { "branch fraction": 1.0, "Q-value": 12.587 },
+      "BN": { "branch fraction": 0.02, "Q-value": 5.861 }
+    },
+    "mass excess": "7.04+/-0.07",
+    "lambda": 22.00467239872842
+  },
+  "Na 11-20": {
+    "counts": 1,
+    "weight": "20.007351+/-0.000007",
+    "half-life": "0.448",
+    "stable": false,
+    "decay modes": {
+      "EC": { "branch fraction": 1.0, "Q-value": 13.89 },
+      "EA": { "branch fraction": 0.2005, "Q-value": 9.157 }
+    },
+    "mass excess": "6.8500+/-0.0010",
+    "lambda": 1.547203528035592
+  },
+  "Na 11-21": {
+    "counts": 230,
+    "weight": "20.9976552+/-0.0000008",
+    "half-life": "22.5",
+    "stable": false,
+    "decay modes": { "EC": { "branch fraction": 1.0, "Q-value": 3.548 } },
+    "mass excess": "-2.184+/-0",
+    "lambda": 0.03080654135821979
+  },
+  "Na 11-22": {
+    "counts": 3252,
+    "weight": "21.9944364+/-0.0000004",
+    "half-life": "82100000.0",
+    "stable": false,
+    "decay modes": { "EC": { "branch fraction": 1.0, "Q-value": 2.842 } },
+    "mass excess": "-5.181+/-0",
+    "lambda": 8.442718399024912e-9
+  },
+  "Na 11-23": {
+    "counts": 12850,
+    "weight": "22.9897692809+/-0.0000000029",
+    "half-life": "inf",
+    "stable": true,
+    "decay modes": { "null": { "branch fraction": null, "Q-value": 0.0 } },
+    "mass excess": "-9.5299+/-0",
+    "lambda": 0.0
+  },
+  "Na 11-24": {
+    "counts": 6308,
+    "weight": "23.99096278+/-0.00000008",
+    "half-life": "54000.0",
+    "stable": false,
+    "decay modes": { "B-": { "branch fraction": 1.0, "Q-value": 5.515 } },
+    "mass excess": "-8.417+/-0",
+    "lambda": 1.2836058899258247e-5
+  },
+  "Na 11-25": {
+    "counts": 1872,
+    "weight": "24.9899540+/-0.0000013",
+    "half-life": "59.1",
+    "stable": false,
+    "decay modes": { "B-": { "branch fraction": 1.0, "Q-value": 3.835 } },
+    "mass excess": "-9.3570+/-0.0010",
+    "lambda": 0.011728378689677585
+  },
+  "Na 11-26": {
+    "counts": 412,
+    "weight": "25.992633+/-0.000006",
+    "half-life": "1.07",
+    "stable": false,
+    "decay modes": { "B-": { "branch fraction": 1.0, "Q-value": 9.352 } },
+    "mass excess": "-6.8600+/-0.0030",
+    "lambda": 0.6478011033270517
+  },
+  "Na 11-27": {
+    "counts": 68,
+    "weight": "26.994077+/-0.000004",
+    "half-life": "0.301",
+    "stable": false,
+    "decay modes": {
+      "B-": { "branch fraction": 1.0, "Q-value": 9.069 },
+      "BN": { "branch fraction": 0.0013, "Q-value": 2.626 }
+    },
+    "mass excess": "-5.5170+/-0.0030",
+    "lambda": 2.3028145533553
+  },
+  "Na 11-28": {
+    "counts": 9,
+    "weight": "27.998938+/-0.000014",
+    "half-life": "0.0305",
+    "stable": false,
+    "decay modes": {
+      "B-": { "branch fraction": 1.0, "Q-value": 14.029 },
+      "BN": { "branch fraction": 0.0058, "Q-value": 5.526 }
+    },
+    "mass excess": "-0.988+/-0.010",
+    "lambda": 22.72613706753919
+  },
+  "Na 11-29": {
+    "counts": 3,
+    "weight": "29.002861+/-0.000014",
+    "half-life": "0.0449",
+    "stable": false,
+    "decay modes": {
+      "B-": { "branch fraction": 1.0, "Q-value": 13.284 },
+      "BN": { "branch fraction": 0.215, "Q-value": 9.612 }
+    },
+    "mass excess": "2.669+/-0.012",
+    "lambda": 15.437576404453123
+  },
+  "Na 11-31": {
+    "counts": 1,
+    "weight": "31.01359+/-0.00023",
+    "half-life": "0.017",
+    "stable": false,
+    "decay modes": {
+      "B-": { "branch fraction": 1.0, "Q-value": 15.872 },
+      "BN": { "branch fraction": 0.37, "Q-value": 13.494 },
+      "B2N": { "branch fraction": 0.0087, "Q-value": 15.872 },
+      "B3N": { "branch fraction": 0.0005, "Q-value": 15.872 }
+    },
+    "mass excess": "12.54+/-0.10",
+    "lambda": 40.77336356234972
+  },
+  "Mg 12-22": {
+    "counts": 70,
+    "weight": "21.9995738+/-0.0000014",
+    "half-life": "3.88",
+    "stable": false,
+    "decay modes": { "EC": { "branch fraction": 1.0, "Q-value": 4.785 } },
+    "mass excess": "-0.399+/-0",
+    "lambda": 0.17864618055668693
+  },
+  "Mg 12-23": {
+    "counts": 674,
+    "weight": "22.9941237+/-0.0000014",
+    "half-life": "11.3",
+    "stable": false,
+    "decay modes": { "EC": { "branch fraction": 1.0, "Q-value": 4.056 } },
+    "mass excess": "-5.473+/-0",
+    "lambda": 0.06134045845663232
+  },
+  "Mg 12-24": {
+    "counts": 29444,
+    "weight": "23.985041700+/-0.000000014",
+    "half-life": "inf",
+    "stable": true,
+    "decay modes": { "null": { "branch fraction": null, "Q-value": 0.0 } },
+    "mass excess": "-13.933+/-0",
+    "lambda": 0.0
+  },
+  "Mg 12-25": {
+    "counts": 17652,
+    "weight": "24.985836920+/-0.000000030",
+    "half-life": "inf",
+    "stable": true,
+    "decay modes": { "null": { "branch fraction": null, "Q-value": 0.0 } },
+    "mass excess": "-13.192+/-0",
+    "lambda": 0.0
+  },
+  "Mg 12-26": {
+    "counts": 30025,
+    "weight": "25.982592929+/-0.000000030",
+    "half-life": "inf",
+    "stable": true,
+    "decay modes": { "null": { "branch fraction": null, "Q-value": 0.0 } },
+    "mass excess": "-16.214+/-0",
+    "lambda": 0.0
+  },
+  "Mg 12-27": {
+    "counts": 3722,
+    "weight": "26.98434059+/-0.00000005",
+    "half-life": "567.0",
+    "stable": false,
+    "decay modes": { "B-": { "branch fraction": 1.0, "Q-value": 2.61 } },
+    "mass excess": "-14.586+/-0",
+    "lambda": 0.0012224817999293568
+  },
+  "Mg 12-28": {
+    "counts": 1521,
+    "weight": "27.9838768+/-0.0000022",
+    "half-life": "75300.0",
+    "stable": false,
+    "decay modes": { "B-": { "branch fraction": 1.0, "Q-value": 1.832 } },
+    "mass excess": "-15.0180+/-0.0020",
+    "lambda": 9.205141840105515e-6
+  },
+  "Mg 12-29": {
+    "counts": 145,
+    "weight": "28.988600+/-0.000015",
+    "half-life": "1.3",
+    "stable": false,
+    "decay modes": { "B-": { "branch fraction": 1.0, "Q-value": 7.596 } },
+    "mass excess": "-10.602+/-0.011",
+    "lambda": 0.5331901388922656
+  },
+  "Mg 12-30": {
+    "counts": 38,
+    "weight": "29.990434+/-0.000009",
+    "half-life": "0.335",
+    "stable": false,
+    "decay modes": { "B-": { "branch fraction": 1.0, "Q-value": 6.962 } },
+    "mass excess": "-8.892+/-0.013",
+    "lambda": 2.0690960613729708
+  },
+  "Mg 12-31": {
+    "counts": 8,
+    "weight": "30.996546+/-0.000013",
+    "half-life": "0.232",
+    "stable": false,
+    "decay modes": {
+      "B-": { "branch fraction": 1.0, "Q-value": 11.736 },
+      "BN": { "branch fraction": 0.017, "Q-value": 4.584 }
+    },
+    "mass excess": "-3.190+/-0.016",
+    "lambda": 2.9877033644825226
+  },
+  "Mg 12-32": {
+    "counts": 2,
+    "weight": "31.998975+/-0.000019",
+    "half-life": "0.086",
+    "stable": false,
+    "decay modes": {
+      "B-": { "branch fraction": 1.0, "Q-value": 10.107 },
+      "BN": { "branch fraction": 0.055, "Q-value": 5.928 }
+    },
+    "mass excess": "-0.911+/-0.017",
+    "lambda": 8.059850936743551
+  },
+  "Al 13-25": {
+    "counts": 265,
+    "weight": "24.9904281+/-0.0000005",
+    "half-life": "7.18",
+    "stable": false,
+    "decay modes": { "EC": { "branch fraction": 1.0, "Q-value": 4.277 } },
+    "mass excess": "-8.916+/-0",
+    "lambda": 0.09653860453481132
+  },
+  "Al 13-26": {
+    "counts": 4680,
+    "weight": "25.98689169+/-0.00000006",
+    "half-life": "22600000000000.0",
+    "stable": false,
+    "decay modes": { "EC": { "branch fraction": 1.0, "Q-value": 4.004 } },
+    "mass excess": "-12.21+/-0",
+    "lambda": 3.067022922831616e-14
+  },
+  "Al 13-27": {
+    "counts": 35116,
+    "weight": "26.98153863+/-0.00000012",
+    "half-life": "inf",
+    "stable": true,
+    "decay modes": { "null": { "branch fraction": null, "Q-value": 0.0 } },
+    "mass excess": "-17.196+/-0",
+    "lambda": 0.0
+  },
+  "Al 13-28": {
+    "counts": 15689,
+    "weight": "27.98191031+/-0.00000014",
+    "half-life": "134.0",
+    "stable": false,
+    "decay modes": { "B-": { "branch fraction": 1.0, "Q-value": 4.642 } },
+    "mass excess": "-16.85+/-0",
+    "lambda": 0.005172740153432428
+  },
+  "Al 13-29": {
+    "counts": 6179,
+    "weight": "28.9804450+/-0.0000013",
+    "half-life": "394.0",
+    "stable": false,
+    "decay modes": { "B-": { "branch fraction": 1.0, "Q-value": 3.68 } },
+    "mass excess": "-18.2150+/-0.0010",
+    "lambda": 0.0017592568034516377
+  },
+  "Al 13-30": {
+    "counts": 1580,
+    "weight": "29.982960+/-0.000015",
+    "half-life": "3.62",
+    "stable": false,
+    "decay modes": { "B-": { "branch fraction": 1.0, "Q-value": 8.561 } },
+    "mass excess": "-15.872+/-0.014",
+    "lambda": 0.19147712170164233
+  },
+  "Al 13-31": {
+    "counts": 416,
+    "weight": "30.983947+/-0.000022",
+    "half-life": "0.644",
+    "stable": false,
+    "decay modes": { "B-": { "branch fraction": 1.0, "Q-value": 7.995 } },
+    "mass excess": "-14.954+/-0.020",
+    "lambda": 1.0763154977638902
+  },
+  "Al 13-32": {
+    "counts": 71,
+    "weight": "31.98812+/-0.00009",
+    "half-life": "0.033",
+    "stable": false,
+    "decay modes": {
+      "B-": { "branch fraction": 1.0, "Q-value": 13.019 },
+      "BN": { "branch fraction": 0.006999999999999999, "Q-value": 3.816 }
+    },
+    "mass excess": "-11.06+/-0.09",
+    "lambda": 21.00446001696804
+  },
+  "Al 13-33": {
+    "counts": 27,
+    "weight": "32.99084+/-0.00008",
+    "half-life": "0.0417",
+    "stable": false,
+    "decay modes": {
+      "B-": { "branch fraction": 1.0, "Q-value": 11.963 },
+      "BN": { "branch fraction": 0.085, "Q-value": 7.48 }
+    },
+    "mass excess": "-8.44+/-0.07",
+    "lambda": 16.622234545802044
+  },
+  "Al 13-34": {
+    "counts": 7,
+    "weight": "33.99685+/-0.00012",
+    "half-life": "0.042",
+    "stable": false,
+    "decay modes": {
+      "B-": { "branch fraction": 1.0, "Q-value": 17.024 },
+      "BN": { "branch fraction": 0.27, "Q-value": 9.489 }
+    },
+    "mass excess": "-3.05+/-0.06",
+    "lambda": 16.503504299046316
+  },
+  "Al 13-35": {
+    "counts": 5,
+    "weight": "34.99986+/-0.00019",
+    "half-life": "0.0372",
+    "stable": false,
+    "decay modes": {
+      "B-": { "branch fraction": 1.0, "Q-value": 14.23 },
+      "BN": { "branch fraction": 0.38, "Q-value": 11.755 }
+    },
+    "mass excess": "-0.22+/-0.07",
+    "lambda": 18.632988724729714
+  },
+  "Al 13-36": {
+    "counts": 1,
+    "weight": "36.00621+/-0.00023",
+    "half-life": "0.09",
+    "stable": false,
+    "decay modes": {
+      "B-": { "branch fraction": 1.0, "Q-value": 18.264 },
+      "BN": { "branch fraction": 0.31, "Q-value": 12.071 }
+    },
+    "mass excess": "5.95+/-0.10",
+    "lambda": 7.701635339554948
+  },
+  "Si 14-26": {
+    "counts": 72,
+    "weight": "25.9923300+/-0.0000030",
+    "half-life": "2.23",
+    "stable": false,
+    "decay modes": { "EC": { "branch fraction": 1.0, "Q-value": 5.066 } },
+    "mass excess": "-7.14+/-0",
+    "lambda": 0.31082833208966154
+  },
+  "Si 14-27": {
+    "counts": 918,
+    "weight": "26.98670491+/-0.00000016",
+    "half-life": "4.15",
+    "stable": false,
+    "decay modes": { "EC": { "branch fraction": 1.0, "Q-value": 4.812 } },
+    "mass excess": "-12.384+/-0",
+    "lambda": 0.16702341700239645
+  },
+  "Si 14-28": {
+    "counts": 63621,
+    "weight": "27.9769265325+/-0.0000000019",
+    "half-life": "inf",
+    "stable": true,
+    "decay modes": { "null": { "branch fraction": null, "Q-value": 0.0 } },
+    "mass excess": "-21.4928+/-0",
+    "lambda": 0.0
+  },
+  "Si 14-29": {
+    "counts": 56636,
+    "weight": "28.976494700+/-0.000000022",
+    "half-life": "inf",
+    "stable": true,
+    "decay modes": { "null": { "branch fraction": null, "Q-value": 0.0 } },
+    "mass excess": "-21.8951+/-0",
+    "lambda": 0.0
+  },
+  "Si 14-30": {
+    "counts": 71017,
+    "weight": "29.973770170+/-0.000000030",
+    "half-life": "inf",
+    "stable": true,
+    "decay modes": { "null": { "branch fraction": null, "Q-value": 0.0 } },
+    "mass excess": "-24.432+/-0",
+    "lambda": 0.0
+  },
+  "Si 14-31": {
+    "counts": 21904,
+    "weight": "30.97536323+/-0.00000004",
+    "half-life": "9440.0",
+    "stable": false,
+    "decay modes": { "B-": { "branch fraction": 1.0, "Q-value": 1.492 } },
+    "mass excess": "-22.949+/-0",
+    "lambda": 7.342660811016369e-5
+  },
+  "Si 14-32": {
+    "counts": 14823,
+    "weight": "31.97414808+/-0.00000005",
+    "half-life": "4830000000.0",
+    "stable": false,
+    "decay modes": { "B-": { "branch fraction": 1.0, "Q-value": 0.224 } },
+    "mass excess": "-24.077+/-0",
+    "lambda": 1.4350873303518536e-10
+  },
+  "Si 14-33": {
+    "counts": 1668,
+    "weight": "32.978000+/-0.000017",
+    "half-life": "6.11",
+    "stable": false,
+    "decay modes": { "B-": { "branch fraction": 1.0, "Q-value": 5.845 } },
+    "mass excess": "-20.514+/-0",
+    "lambda": 0.1134447104026097
+  },
+  "Si 14-34": {
+    "counts": 800,
+    "weight": "33.978576+/-0.000015",
+    "half-life": "2.77",
+    "stable": false,
+    "decay modes": { "B-": { "branch fraction": 1.0, "Q-value": 4.601 } },
+    "mass excess": "-19.956+/-0.014",
+    "lambda": 0.25023363919131597
+  },
+  "Si 14-35": {
+    "counts": 85,
+    "weight": "34.98458+/-0.00004",
+    "half-life": "0.78",
+    "stable": false,
+    "decay modes": {
+      "B-": { "branch fraction": 1.0, "Q-value": 10.497 },
+      "BN": { "branch fraction": 0.05, "Q-value": 10.497 }
+    },
+    "mass excess": "-14.36+/-0.04",
+    "lambda": 0.8886502314871093
+  },
+  "Si 14-36": {
+    "counts": 60,
+    "weight": "35.98660+/-0.00013",
+    "half-life": "0.45",
+    "stable": false,
+    "decay modes": {
+      "B-": { "branch fraction": 1.0, "Q-value": 7.768 },
+      "BN": { "branch fraction": 0.1, "Q-value": 4.304 }
+    },
+    "mass excess": "-12.42+/-0.06",
+    "lambda": 1.5403270679109895
+  },
+  "Si 14-37": {
+    "counts": 11,
+    "weight": "36.99294+/-0.00018",
+    "half-life": "0.09",
+    "stable": false,
+    "decay modes": {
+      "B-": { "branch fraction": 1.0, "Q-value": 12.414 },
+      "BN": { "branch fraction": 0.17, "Q-value": 5.6 }
+    },
+    "mass excess": "-6.59+/-0.08",
+    "lambda": 7.701635339554948
+  },
+  "P 15-28": {
+    "counts": 2,
+    "weight": "27.992315+/-0.000004",
+    "half-life": "0.27",
+    "stable": false,
+    "decay modes": {
+      "EC": { "branch fraction": 1.0, "Q-value": 14.334 },
+      "EP": { "branch fraction": 1.3e-5, "Q-value": 2.749 },
+      "EA": { "branch fraction": 8.599999999999999e-6, "Q-value": 4.347 }
+    },
+    "mass excess": "-7.1490+/-0.0010",
+    "lambda": 2.567211779851649
+  },
+  "P 15-29": {
+    "counts": 326,
+    "weight": "28.9818006+/-0.0000006",
+    "half-life": "4.14",
+    "stable": false,
+    "decay modes": { "EC": { "branch fraction": 1.0, "Q-value": 4.942 } },
+    "mass excess": "-16.952+/-0",
+    "lambda": 0.16742685520771627
+  },
+  "P 15-30": {
+    "counts": 7303,
+    "weight": "29.97831380+/-0.00000030",
+    "half-life": "150.0",
+    "stable": false,
+    "decay modes": { "EC": { "branch fraction": 1.0, "Q-value": 4.232 } },
+    "mass excess": "-20.2+/-0",
+    "lambda": 0.0046209812037329686
+  },
+  "P 15-31": {
+    "counts": 73495,
+    "weight": "30.97376163+/-0.00000020",
+    "half-life": "inf",
+    "stable": true,
+    "decay modes": { "null": { "branch fraction": null, "Q-value": 0.0 } },
+    "mass excess": "-24.4405+/-0",
+    "lambda": 0.0
+  },
+  "P 15-32": {
+    "counts": 58765,
+    "weight": "31.97390727+/-0.00000020",
+    "half-life": "1230000.0",
+    "stable": false,
+    "decay modes": { "B-": { "branch fraction": 1.0, "Q-value": 1.71 } },
+    "mass excess": "-24.304+/-0",
+    "lambda": 5.635342931381669e-7
+  },
+  "P 15-33": {
+    "counts": 48903,
+    "weight": "32.9717255+/-0.0000012",
+    "half-life": "2190000.0",
+    "stable": false,
+    "decay modes": { "B-": { "branch fraction": 1.0, "Q-value": 0.249 } },
+    "mass excess": "-26.3370+/-0.0010",
+    "lambda": 3.165055618995184e-7
+  },
+  "P 15-34": {
+    "counts": 18351,
+    "weight": "33.973636+/-0.000005",
+    "half-life": "12.4",
+    "stable": false,
+    "decay modes": { "B-": { "branch fraction": 1.0, "Q-value": 5.374 } },
+    "mass excess": "-24.548+/-0",
+    "lambda": 0.05589896617418914
+  },
+  "P 15-35": {
+    "counts": 8234,
+    "weight": "34.9733141+/-0.0000020",
+    "half-life": "47.3",
+    "stable": false,
+    "decay modes": { "B-": { "branch fraction": 1.0, "Q-value": 3.989 } },
+    "mass excess": "-24.8570+/-0.0010",
+    "lambda": 0.014654274430442819
+  },
+  "P 15-36": {
+    "counts": 1909,
+    "weight": "35.978260+/-0.000014",
+    "half-life": "5.6",
+    "stable": false,
+    "decay modes": { "B-": { "branch fraction": 1.0, "Q-value": 10.413 } },
+    "mass excess": "-20.251+/-0.013",
+    "lambda": 0.12377628224284738
+  },
+  "P 15-37": {
+    "counts": 1022,
+    "weight": "36.97961+/-0.00004",
+    "half-life": "2.31",
+    "stable": false,
+    "decay modes": { "B-": { "branch fraction": 1.0, "Q-value": 7.902 } },
+    "mass excess": "-19.00+/-0.04",
+    "lambda": 0.3000637145281148
+  },
+  "P 15-38": {
+    "counts": 189,
+    "weight": "37.98416+/-0.00011",
+    "half-life": "0.64",
+    "stable": false,
+    "decay modes": {
+      "B-": { "branch fraction": 1.0, "Q-value": 12.103 },
+      "BN": { "branch fraction": 0.12, "Q-value": 4.067 }
+    },
+    "mass excess": "-14.64+/-0.07",
+    "lambda": 1.0830424696249146
+  },
+  "P 15-39": {
+    "counts": 1,
+    "weight": "38.98618+/-0.00011",
+    "half-life": "0.28",
+    "stable": false,
+    "decay modes": {
+      "B-": { "branch fraction": 1.0, "Q-value": 10.289 },
+      "BN": { "branch fraction": 0.26, "Q-value": 5.916 }
+    },
+    "mass excess": "-12.79+/-0.08",
+    "lambda": 2.475525644856947
+  },
+  "S 16-29": {
+    "counts": 1,
+    "weight": "28.99661+/-0.00005",
+    "half-life": "0.187",
+    "stable": false,
+    "decay modes": {
+      "EC": { "branch fraction": 1.0, "Q-value": 13.793 },
+      "EP": { "branch fraction": 0.47, "Q-value": 11.044 }
+    },
+    "mass excess": "-3.16+/-0.05",
+    "lambda": 3.7066694147590655
+  },
+  "S 16-30": {
+    "counts": 37,
+    "weight": "29.9849030+/-0.0000030",
+    "half-life": "1.18",
+    "stable": false,
+    "decay modes": { "EC": { "branch fraction": 1.0, "Q-value": 6.138 } },
+    "mass excess": "-14.0620+/-0.0030",
+    "lambda": 0.5874128648813096
+  },
+  "S 16-31": {
+    "counts": 768,
+    "weight": "30.9795547+/-0.0000016",
+    "half-life": "2.57",
+    "stable": false,
+    "decay modes": { "EC": { "branch fraction": 1.0, "Q-value": 5.396 } },
+    "mass excess": "-19.043+/-0",
+    "lambda": 0.2697070741478387
+  },
+  "S 16-32": {
+    "counts": 104771,
+    "weight": "31.97207100+/-0.00000015",
+    "half-life": "inf",
+    "stable": true,
+    "decay modes": { "null": { "branch fraction": null, "Q-value": 0.0 } },
+    "mass excess": "-26.0155+/-0",
+    "lambda": 0.0
+  },
+  "S 16-33": {
+    "counts": 139337,
+    "weight": "32.97145876+/-0.00000015",
+    "half-life": "inf",
+    "stable": true,
+    "decay modes": { "null": { "branch fraction": null, "Q-value": 0.0 } },
+    "mass excess": "-26.5859+/-0",
+    "lambda": 0.0
+  },
+  "S 16-34": {
+    "counts": 233638,
+    "weight": "33.96786690+/-0.00000012",
+    "half-life": "inf",
+    "stable": true,
+    "decay modes": { "null": { "branch fraction": null, "Q-value": 0.0 } },
+    "mass excess": "-29.931+/-0",
+    "lambda": 0.0
+  },
+  "S 16-35": {
+    "counts": 181553,
+    "weight": "34.96903216+/-0.00000011",
+    "half-life": "7550000.0",
+    "stable": false,
+    "decay modes": { "B-": { "branch fraction": 1.0, "Q-value": 0.167 } },
+    "mass excess": "-28.846+/-0",
+    "lambda": 9.180757358409871e-8
+  },
+  "S 16-36": {
+    "counts": 206332,
+    "weight": "35.96708076+/-0.00000020",
+    "half-life": "inf",
+    "stable": true,
+    "decay modes": { "null": { "branch fraction": null, "Q-value": 0.0 } },
+    "mass excess": "-30.664+/-0",
+    "lambda": 0.0
+  },
+  "S 16-37": {
+    "counts": 48675,
+    "weight": "36.97112557+/-0.00000021",
+    "half-life": "303.0",
+    "stable": false,
+    "decay modes": { "B-": { "branch fraction": 1.0, "Q-value": 4.865 } },
+    "mass excess": "-26.896+/-0",
+    "lambda": 0.002287614457293549
+  },
+  "S 16-38": {
+    "counts": 21991,
+    "weight": "37.971163+/-0.000008",
+    "half-life": "10200.0",
+    "stable": false,
+    "decay modes": { "B-": { "branch fraction": 1.0, "Q-value": 2.937 } },
+    "mass excess": "-26.861+/-0.007",
+    "lambda": 6.795560593724954e-5
+  },
+  "S 16-39": {
+    "counts": 654,
+    "weight": "38.97513+/-0.00005",
+    "half-life": "11.5",
+    "stable": false,
+    "decay modes": { "B-": { "branch fraction": 1.0, "Q-value": 6.638 } },
+    "mass excess": "-23.16+/-0.05",
+    "lambda": 0.06027366787477785
+  },
+  "S 16-40": {
+    "counts": 3,
+    "weight": "39.97545+/-0.00015",
+    "half-life": "8.8",
+    "stable": false,
+    "decay modes": { "B-": { "branch fraction": 1.0, "Q-value": 4.691 } },
+    "mass excess": "-22.93+/-0.11",
+    "lambda": 0.07876672506363014
+  },
+  "Cl 17-31": {
+    "counts": 1,
+    "weight": "30.99241+/-0.00005",
+    "half-life": "0.15",
+    "stable": false,
+    "decay modes": {
+      "EC": { "branch fraction": 1.0, "Q-value": 11.977 },
+      "EP": { "branch fraction": 0.006999999999999999, "Q-value": 5.844 }
+    },
+    "mass excess": "-7.07+/-0.05",
+    "lambda": 4.620981203732969
+  },
+  "Cl 17-32": {
+    "counts": 6,
+    "weight": "31.985690+/-0.000007",
+    "half-life": "0.298",
+    "stable": false,
+    "decay modes": {
+      "EC": { "branch fraction": 1.0, "Q-value": 12.686 },
+      "EA": { "branch fraction": 0.0005, "Q-value": 5.737 },
+      "EP": { "branch fraction": 0.0003, "Q-value": 3.822 }
+    },
+    "mass excess": "-13.335+/-0",
+    "lambda": 2.325997250201159
+  },
+  "Cl 17-33": {
+    "counts": 301,
+    "weight": "32.9774519+/-0.0000005",
+    "half-life": "2.51",
+    "stable": false,
+    "decay modes": { "EC": { "branch fraction": 1.0, "Q-value": 5.583 } },
+    "mass excess": "-21.003+/-0",
+    "lambda": 0.2761542552031655
+  },
+  "Cl 17-34": {
+    "counts": 6039,
+    "weight": "33.97376282+/-0.00000019",
+    "half-life": "1.53",
+    "stable": false,
+    "decay modes": { "EC": { "branch fraction": 1.0, "Q-value": 5.492 } },
+    "mass excess": "-24.44+/-0",
+    "lambda": 0.4530373729149969
+  },
+  "Cl 17-35": {
+    "counts": 280123,
+    "weight": "34.96885268+/-0.00000004",
+    "half-life": "inf",
+    "stable": true,
+    "decay modes": { "null": { "branch fraction": null, "Q-value": 0.0 } },
+    "mass excess": "-29.013+/-0",
+    "lambda": 0.0
+  },
+  "Cl 17-36": {
+    "counts": 148853,
+    "weight": "35.96830698+/-0.00000008",
+    "half-life": "9500000000000.0",
+    "stable": false,
+    "decay modes": {
+      "B-": { "branch fraction": 0.981, "Q-value": 0.71 },
+      "EC": { "branch fraction": 0.019, "Q-value": 0.71 }
+    },
+    "mass excess": "-29.521+/-0",
+    "lambda": 7.296286111157319e-14
+  },
+  "Cl 17-37": {
+    "counts": 801849,
+    "weight": "36.96590259+/-0.00000005",
+    "half-life": "inf",
+    "stable": true,
+    "decay modes": { "null": { "branch fraction": null, "Q-value": 0.0 } },
+    "mass excess": "-31.761+/-0",
+    "lambda": 0.0
+  },
+  "Cl 17-38": {
+    "counts": 252905,
+    "weight": "37.96801043+/-0.00000010",
+    "half-life": "2230.0",
+    "stable": false,
+    "decay modes": { "B-": { "branch fraction": 1.0, "Q-value": 4.916 } },
+    "mass excess": "-29.798+/-0",
+    "lambda": 0.00031082833208966157
+  },
+  "Cl 17-39": {
+    "counts": 209089,
+    "weight": "38.9680082+/-0.0000019",
+    "half-life": "3370.0",
+    "stable": false,
+    "decay modes": { "B-": { "branch fraction": 1.0, "Q-value": 3.442 } },
+    "mass excess": "-29.8000+/-0.0010",
+    "lambda": 0.00020568165595250603
+  },
+  "Cl 17-40": {
+    "counts": 60523,
+    "weight": "39.970420+/-0.000030",
+    "half-life": "81.0",
+    "stable": false,
+    "decay modes": { "B-": { "branch fraction": 1.0, "Q-value": 7.482 } },
+    "mass excess": "-27.557+/-0.032",
+    "lambda": 0.008557372599505498
+  },
+  "Ar 18-33": {
+    "counts": 3,
+    "weight": "32.9899257+/-0.0000005",
+    "half-life": "0.173",
+    "stable": false,
+    "decay modes": {
+      "EC": { "branch fraction": 1.0, "Q-value": 11.619 },
+      "EP": { "branch fraction": 0.387, "Q-value": 9.343 }
+    },
+    "mass excess": "-9.384+/-0",
+    "lambda": 4.006631101502574
+  },
+  "Ar 18-34": {
+    "counts": 104,
+    "weight": "33.9802712+/-0.0000004",
+    "half-life": "0.845",
+    "stable": false,
+    "decay modes": { "EC": { "branch fraction": 1.0, "Q-value": 6.063 } },
+    "mass excess": "-18.377+/-0",
+    "lambda": 0.8202925213727164
+  },
+  "Ar 18-35": {
+    "counts": 1593,
+    "weight": "34.9752576+/-0.0000008",
+    "half-life": "1.78",
+    "stable": false,
+    "decay modes": { "EC": { "branch fraction": 1.0, "Q-value": 5.966 } },
+    "mass excess": "-23.047+/-0",
+    "lambda": 0.38940852840446366
+  },
+  "Ar 18-36": {
+    "counts": 244372,
+    "weight": "35.967545106+/-0.000000029",
+    "half-life": "inf",
+    "stable": true,
+    "decay modes": { "null": { "branch fraction": null, "Q-value": 0.0 } },
+    "mass excess": "-30.231+/-0",
+    "lambda": 0.0
+  },
+  "Ar 18-37": {
+    "counts": 406335,
+    "weight": "36.96677632+/-0.00000022",
+    "half-life": "3030000.0",
+    "stable": false,
+    "decay modes": { "EC": { "branch fraction": 1.0, "Q-value": 0.814 } },
+    "mass excess": "-30.947+/-0",
+    "lambda": 2.287614457293549e-7
+  },
+  "Ar 18-38": {
+    "counts": 2015414,
+    "weight": "37.9627324+/-0.0000004",
+    "half-life": "inf",
+    "stable": true,
+    "decay modes": { "null": { "branch fraction": null, "Q-value": 0.0 } },
+    "mass excess": "-34.714+/-0",
+    "lambda": 0.0
+  },
+  "Ar 18-39": {
+    "counts": 4117040,
+    "weight": "38.964313+/-0.000005",
+    "half-life": "8490000000.0",
+    "stable": false,
+    "decay modes": { "B-": { "branch fraction": 1.0, "Q-value": 0.565 } },
+    "mass excess": "-33.242+/-0.005",
+    "lambda": 8.164277745111252e-11
+  },
+  "Ar 18-40": {
+    "counts": 8274467,
+    "weight": "39.9623831225+/-0.0000000029",
+    "half-life": "inf",
+    "stable": true,
+    "decay modes": { "null": { "branch fraction": null, "Q-value": 0.0 } },
+    "mass excess": "-35.0399+/-0",
+    "lambda": 0.0
+  },
+  "Ar 18-41": {
+    "counts": 5037259,
+    "weight": "40.9645006+/-0.0000004",
+    "half-life": "6580.0",
+    "stable": false,
+    "decay modes": { "B-": { "branch fraction": 1.0, "Q-value": 2.492 } },
+    "mass excess": "-33.067+/-0",
+    "lambda": 0.00010534151680242329
+  },
+  "Ar 18-42": {
+    "counts": 32,
+    "weight": "41.963046+/-0.000006",
+    "half-life": "1040000000.0",
+    "stable": false,
+    "decay modes": { "B-": { "branch fraction": 1.0, "Q-value": 0.599 } },
+    "mass excess": "-34.422+/-0.005",
+    "lambda": 6.66487673615332e-10
+  },
+  "K 19-36": {
+    "counts": 12,
+    "weight": "35.981292+/-0.000008",
+    "half-life": "0.342",
+    "stable": false,
+    "decay modes": {
+      "EC": { "branch fraction": 1.0, "Q-value": 12.805 },
+      "EP": { "branch fraction": 0.0005, "Q-value": 4.298 },
+      "EA": { "branch fraction": 3.4e-5, "Q-value": 0.0 }
+    },
+    "mass excess": "-17.417+/-0",
+    "lambda": 2.026746141988144
+  },
+  "K 19-37": {
+    "counts": 24,
+    "weight": "36.97337589+/-0.00000010",
+    "half-life": "1.23",
+    "stable": false,
+    "decay modes": { "EC": { "branch fraction": 1.0, "Q-value": 6.147 } },
+    "mass excess": "-24.8+/-0",
+    "lambda": 0.5635342931381669
+  },
+  "K 19-38": {
+    "counts": 499,
+    "weight": "37.9690812+/-0.0000005",
+    "half-life": "458.0",
+    "stable": false,
+    "decay modes": { "EC": { "branch fraction": 1.0, "Q-value": 5.914 } },
+    "mass excess": "-28.8+/-0",
+    "lambda": 0.001513421791615601
+  },
+  "K 19-39": {
+    "counts": 3831069,
+    "weight": "38.96370668+/-0.00000020",
+    "half-life": "inf",
+    "stable": true,
+    "decay modes": { "null": { "branch fraction": null, "Q-value": 0.0 } },
+    "mass excess": "-33.8072+/-0",
+    "lambda": 0.0
+  },
+  "K 19-40": {
+    "counts": 7861,
+    "weight": "39.96399848+/-0.00000021",
+    "half-life": "3.94e+16",
+    "stable": false,
+    "decay modes": {
+      "B-": { "branch fraction": 0.8928, "Q-value": 1.311 },
+      "EC": { "branch fraction": 0.1072, "Q-value": 1.505 }
+    },
+    "mass excess": "-33.535+/-0",
+    "lambda": 1.7592568034516378e-17
+  },
+  "K 19-41": {
+    "counts": 10036964,
+    "weight": "40.96182576+/-0.00000021",
+    "half-life": "inf",
+    "stable": true,
+    "decay modes": { "null": { "branch fraction": null, "Q-value": 0.0 } },
+    "mass excess": "-35.5595+/-0",
+    "lambda": 0.0
+  },
+  "K 19-42": {
+    "counts": 155,
+    "weight": "41.96240281+/-0.00000024",
+    "half-life": "44400.0",
+    "stable": false,
+    "decay modes": { "B-": { "branch fraction": 1.0, "Q-value": 3.526 } },
+    "mass excess": "-35.022+/-0",
+    "lambda": 1.5611422985584354e-5
+  },
+  "K 19-43": {
+    "counts": 3,
+    "weight": "42.960716+/-0.000010",
+    "half-life": "80300.0",
+    "stable": false,
+    "decay modes": { "B-": { "branch fraction": 1.0, "Q-value": 1.815 } },
+    "mass excess": "-36.575+/-0",
+    "lambda": 8.631969869986866e-6
+  },
+  "Ca 20-38": {
+    "counts": 1,
+    "weight": "37.976318+/-0.000005",
+    "half-life": "0.44",
+    "stable": false,
+    "decay modes": { "EC": { "branch fraction": 1.0, "Q-value": 6.741 } },
+    "mass excess": "-22.058+/-0",
+    "lambda": 1.575334501272603
+  },
+  "Ca 20-39": {
+    "counts": 3,
+    "weight": "38.9707197+/-0.0000020",
+    "half-life": "0.86",
+    "stable": false,
+    "decay modes": { "EC": { "branch fraction": 1.0, "Q-value": 6.533 } },
+    "mass excess": "-27.282+/-0",
+    "lambda": 0.805985093674355
+  },
+  "Ca 20-40": {
+    "counts": 7011,
+    "weight": "39.96259098+/-0.00000022",
+    "half-life": "9.47e+28",
+    "stable": false,
+    "decay modes": { "2EC": { "branch fraction": null, "Q-value": 0.0 } },
+    "mass excess": "-34.846+/-0",
+    "lambda": 7.319400005912833e-30
+  },
+  "Ca 20-41": {
+    "counts": 15,
+    "weight": "40.96227806+/-0.00000026",
+    "half-life": "3220000000000.0",
+    "stable": false,
+    "decay modes": { "EC": { "branch fraction": 1.0, "Q-value": 0.421 } },
+    "mass excess": "-35.137+/-0",
+    "lambda": 2.1526309955277805e-13
+  },
+  "Ca 20-42": {
+    "counts": 195,
+    "weight": "41.95861801+/-0.00000027",
+    "half-life": "inf",
+    "stable": true,
+    "decay modes": { "null": { "branch fraction": null, "Q-value": 0.0 } },
+    "mass excess": "-38.547+/-0",
+    "lambda": 0.0
+  },
+  "Ca 20-43": {
+    "counts": 156,
+    "weight": "42.95876660+/-0.00000030",
+    "half-life": "inf",
+    "stable": true,
+    "decay modes": { "null": { "branch fraction": null, "Q-value": 0.0 } },
+    "mass excess": "-38.408+/-0",
+    "lambda": 0.0
+  },
+  "Ca 20-44": {
+    "counts": 6,
+    "weight": "43.9554818+/-0.0000004",
+    "half-life": "inf",
+    "stable": true,
+    "decay modes": { "null": { "branch fraction": null, "Q-value": 0.0 } },
+    "mass excess": "-41.468+/-0",
+    "lambda": 0.0
+  },
+  "Ca 20-45": {
+    "counts": 1,
+    "weight": "44.9561866+/-0.0000004",
+    "half-life": "14000000.0",
+    "stable": false,
+    "decay modes": { "B-": { "branch fraction": 1.0, "Q-value": 0.256 } },
+    "mass excess": "-40.812+/-0",
+    "lambda": 4.951051289713895e-8
+  },
+  "Sc 21-43": {
+    "counts": 1,
+    "weight": "42.9611507+/-0.0000020",
+    "half-life": "14000.0",
+    "stable": false,
+    "decay modes": { "EC": { "branch fraction": 1.0, "Q-value": 2.221 } },
+    "mass excess": "-36.1880+/-0.0010",
+    "lambda": 4.951051289713895e-5
+  },
+  "Sc 21-44": {
+    "counts": 1,
+    "weight": "43.9594028+/-0.0000019",
+    "half-life": "14300.0",
+    "stable": false,
+    "decay modes": { "EC": { "branch fraction": 1.0, "Q-value": 3.652 } },
+    "mass excess": "-37.8160+/-0.0010",
+    "lambda": 4.847183080838778e-5
+  },
+  "Sc 21-45": {
+    "counts": 3,
+    "weight": "44.9559119+/-0.0000009",
+    "half-life": "inf",
+    "stable": true,
+    "decay modes": { "null": { "branch fraction": null, "Q-value": 0.0 } },
+    "mass excess": "-41.07+/-0",
+    "lambda": 0.0
+  },
+  "Cr 24-52": {
+    "counts": 2,
+    "weight": "51.9405075+/-0.0000008",
+    "half-life": "inf",
+    "stable": true,
+    "decay modes": { "null": { "branch fraction": null, "Q-value": 0.0 } },
+    "mass excess": "-55.418+/-0",
+    "lambda": 0.0
+  }
+}

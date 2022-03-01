@@ -1,0 +1,6 @@
+wheel
+numpy
+uncertainties
+matplotlib
+pandas
+plotly
