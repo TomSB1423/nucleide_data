@@ -56,7 +56,7 @@ def add_isotope_data(df):
     df["Stable"] = df.apply(
         lambda x: nuc(x["Atomic Number"], x["Mass Number"])["stable"], axis=1
     )
-    df["Half Life (ns)"] = df.apply(
+    df["Half Life (s)"] = df.apply(
         lambda x: nuc(x["Atomic Number"], x["Mass Number"])["half-life"], axis=1
     )
     df["Decay Modes (m, b, q MeV)"] = df.apply(
