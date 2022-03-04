@@ -1,4 +1,4 @@
-,Iso Symbol,Atomic Number,Mass Number,Counts,Production Yield,Stable,Half Life (s),"Decay Modes (m, b, q MeV)",Max Q-Value,Plot Colour,Production (/yr),Yield per Muon (/yr),BDecay 0-200 (keV)
+,Iso Symbol,Atomic Number,Mass Number,Counts,Production Yield,Stable,Half Life (s),"Decay Modes (m, b, q MeV)",Max Q-Value,Plot Colour,Production (/yr),Yield per Muon (/yr),BDecay 30-200 (keV)
 0,S 16-35,16,35,5185,0.0002879059564216438,False,7550000.0,"[['B-', 1.0, 0.167]]",0.167,red,178.72695000000002,5.185e-05,True
 1,P 15-33,15,33,606,3.364918217772732e-05,False,2190000.0,"[['B-', 1.0, 0.249]]",0.249,red,20.888820000000003,6.06e-06,True
 2,S 16-38,16,38,157,8.7176924123815e-06,False,10200.0,"[['B-', 1.0, 2.937]]",2.937,red,5.41179,1.57e-06,True
