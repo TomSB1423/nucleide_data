@@ -4,3 +4,4 @@ uncertainties
 matplotlib
 pandas
 plotly
+SciencePlots
