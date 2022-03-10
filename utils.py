@@ -30,14 +30,14 @@ def get_decay_mode(data):
 
 
 def get_max_qval(data):
-    max = 0
+    arr = []
     for item in data.items():
         if item[0] is not None:
-            if item[1]["Q-value"] > max:
-                max = item[1]["Q-value"]
-    if max == 0:
+            if item[1]["Q-value"] not in arr:
+                arr.append(item[1]["Q-value"])
+    if not arr:
         return None
-    return max
+    return arr
 
 
 def add_isotope_data(df):
@@ -65,7 +65,7 @@ def add_isotope_data(df):
         ),
         axis=1,
     )
-    df["Max Q-Value"] = df.apply(
+    df["Q-Values"] = df.apply(
         lambda x: get_max_qval(
             nuc(x["Atomic Number"], x["Mass Number"])["decay modes"]
         ),
